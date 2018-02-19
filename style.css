@@ -1,0 +1,18 @@
+#firstDiv {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  background-color: blue;
+  color: blue;
+
+}
+
+#secondDiv {
+  float: left;
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  background-color: blue;
+  color: blue;
+}
